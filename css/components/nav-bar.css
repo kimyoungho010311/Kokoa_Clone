@@ -13,5 +13,36 @@
 }
 
 .nav__link {
+  position: relative;
   color: #2e362e;
+}
+
+/*position : absolute 는 가장 가까운 relative를 가진 부모 기준으로 움직인다.*/
+
+.nav__notification__chat {
+  background-color: rgb(237, 108, 61);
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 400;
+  font-size: small;
+  position: absolute;
+  right: 300px;
+  bottom: 28px;
+}
+.nav__notification__ellipsis {
+  background-color: #ed6c3d;
+  width: 4px;
+  height: 4px;
+  border-radius: 2.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 17px;
+  bottom: 17px;
 }
