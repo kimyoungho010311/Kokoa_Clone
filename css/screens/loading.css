@@ -1,0 +1,12 @@
+.loading-main {
+  background-color: var(--yellow);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  left: 220px;
+}
+
+.loading-main i {
+  font-size: 100px;
+  color: rgba(46, 26, 26);
+}
