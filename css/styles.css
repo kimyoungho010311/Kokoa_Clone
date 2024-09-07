@@ -8,7 +8,7 @@
 @import "components/user-component.css";
 @import "components/badge.css";
 @import "components/icon-row.css";
-@import "components/alt-screen-headercss";
+@import "components/alt-screen-header.css";
 
 /*Screens*/
 @import "screens/login.css";
@@ -16,6 +16,8 @@
 @import "screens/find.css";
 @import "screens/loading.css";
 @import "screens/more.css";
+@import "screens/settings.css";
+@import "screens/chat.css";
 
 body {
   color: #2e363e;
