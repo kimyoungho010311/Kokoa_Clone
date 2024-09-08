@@ -1,3 +1,3 @@
-# Kokoa Clone 2024 update
+# Kokoa Clone 2024 
 
-HTML & CSS are so much fun!
+this is my mater piece 
